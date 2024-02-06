@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>pp1</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>y.Version</version-class>
+		<version-uid>e</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>y.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>y.</value>
+	</library-property>
+	-->
+</zk>
